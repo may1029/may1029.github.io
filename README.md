@@ -9,5 +9,11 @@ Access:https://may1029.github.io/miki-iwai.github.io/
 
 ## 01/10
 * clone to miki_home and edit index.html
+<<<<<<< HEAD
 * download to bootstrap template
 * clean up to github.io directory
+=======
+* download to Bootstrap Template
+* clean up to the directory
+* Edit the over framework in the template
+>>>>>>> master
