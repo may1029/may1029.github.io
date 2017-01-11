@@ -1,4 +1,4 @@
-# miki-iwai.github.io
+# may1029.github.io
 
 This is a practice repository in onboarding.
 Access:https://may1029.github.io/miki-iwai.github.io/
@@ -23,4 +23,5 @@ Access:https://may1029.github.io/miki-iwai.github.io/
 * add GitHub icon in footer
 * edit some contents in the template
 * add work name in the top of each portfolio
+* rename the repository
 
