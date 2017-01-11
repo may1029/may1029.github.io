@@ -17,3 +17,10 @@ Access:https://may1029.github.io/miki-iwai.github.io/
 * clean up to the directory
 * Edit the over framework in the template
 >>>>>>> master
+
+## 01/11
+* edit About me
+* add GitHub icon in footer
+* edit some contents in the template
+* add work name in the top of each portfolio
+
