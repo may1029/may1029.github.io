@@ -168,6 +168,22 @@ hr.small {
     padding: 50px 0;
 }
 
+.box{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(127, 255, 212, 0.2);
+}
+
+.text{
+    display: inline-block;
+    text-align: left;
+    padding: 10px;
+    line-height: 180%;
+    font-size: 14pt;
+    font-color: #000000;
+}
+
 /* Services */
 
 .services {
@@ -204,10 +220,11 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
+    oparcity: 0.5;
 }
 
 .img-portfolio:hover {
-    opacity: 0.8;
+    opacity: 0.5;
 }
 
 /* Call to Action */
