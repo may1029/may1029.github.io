@@ -1,7 +1,7 @@
 # may1029.github.io
 
 This is a practice repository in onboarding.
-Access:https://may1029.github.io/miki-iwai.github.io/
+Access:https://may1029.github.io/
 
 ## 12/31
 * create new repository
@@ -24,4 +24,8 @@ Access:https://may1029.github.io/miki-iwai.github.io/
 * edit some contents in the template
 * add work name in the top of each portfolio
 * rename the repository
+* modified some errors
+  * html version caused these errors, maybe
 
+## 01/12
+* modified all errors and finish
